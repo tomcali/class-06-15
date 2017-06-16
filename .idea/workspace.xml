@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac61dbfe-c8fa-4921-92c1-3646f562ba06" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Assets/3de78528-4e2a-11e5-8399-946824aaaaf9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Assets/lifecycleGif.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Assets/lifecycleMiddlewareGif.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/1-Const-Let/const-let-activity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/1-Const-Let/const-let-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/1-Const-Let/const-let-solution.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/10-Generators/generators-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/11-Async-Await/async-await-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/12-Classes/classes-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/2-Arrow-Functions/arrow-functions-activity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/2-Arrow-Functions/arrow-functions-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/2-Arrow-Functions/arrow-functions-solution.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/3-Strings/strings-activity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/3-Strings/strings-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/3-Strings/strings-solution.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/4-Objects/objects-activity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/4-Objects/objects-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/4-Objects/objects-solution.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/5-Parameters/parameters-activity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/5-Parameters/parameters-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/5-Parameters/parameters-solution.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/6-Array-Methods/array-methods-activity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/6-Array-Methods/array-methods-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/6-Array-Methods/array-methods-solution.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/7-Import-Export/import-export-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/8-Fetch/fetch-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/9-Promises/promises-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Activities/9-Promises/promises_cookbook.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-1-ES6/Day-1-LessonPlan.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/01-first-example/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/01-first-example/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/01-first-example/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/01-first-example/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/01-first-example/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/01-first-example/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/app/actions/countActions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/app/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/app/pages/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/app/pages/Welcome.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/app/reducers/counterReducer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/app/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/app/reducers/userReducer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/app/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/02-basic-counter/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/src/actions/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/src/components/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/src/components/search_bar.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/src/components/weather_data.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/src/components/weather_list.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/src/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/src/reducers/reducer_weather.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/style/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/test/components/app_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/test/test_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Instructor-Skeleton-Guide/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/src/actions/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/src/components/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/src/components/search_bar.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/src/components/weather_graph.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/src/components/weather_list.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/src/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/src/reducers/reducer_weather.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/style/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/test/components/app_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/test/test_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Solution/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/src/actions/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/src/components/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/src/components/search_bar.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/src/components/weather_data.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/src/components/weather_list.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/src/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/src/reducers/reducer_weather.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/style/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/test/components/app_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/test/test_helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Activities/React-Redux-Promise/Student-Skeleton/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/Day-2-LessonPlan.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-2-Redux/notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-commented/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-commented/test/tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-commented/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-example/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-example/test/tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-example/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-activity/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-activity/helpers/bank.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-activity/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-activity/test/tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-activity/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/helpers/bank.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/test/tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/public/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/App.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/App.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/childComponents/Frame.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/childComponents/InputBar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/childComponents/ListBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/childComponents/ListItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/src/registerServiceWorker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-skeleton/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/public/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/App.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/App.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/Frame.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/InputBar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/ListBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/ListItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/registerServiceWorker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/counter/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/counter/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/counter/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/counter/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/counter/src/components/Counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/counter/src/components/Counter.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/counter/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/counter/src/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/counter/src/reducers/index.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/counter/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/actions/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/actions/index.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/components/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/components/Footer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/components/Link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/components/Todo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/components/TodoList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/containers/AddTodo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/containers/FilterLink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/containers/VisibleTodoList.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/reducers/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/reducers/todos.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/reducers/todos.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/src/reducers/visibilityFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/redux-helpers/todos/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/actions/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/App.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/App.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/BlankSymbol.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/BlankSymbol.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/Board.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/Board.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/OSymbol.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/Result.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/Result.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/components/XSymbol.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/logic/logic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/logic/logic.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/reducers/gameReducer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/reducers/gameReducer.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/src/symbols/symbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/04-Tic-Tac-Toe/tic-tac-react-commented/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/public/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/src/App.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/src/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/src/App.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/src/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/src/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/src/registerServiceWorker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Activities/sample-app/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-3-TDD-React-Redux/Day-3-LessonPlan.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/Day-4-Advanced Redux-Front End Auth/Day-4-LessonPlan.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/z-Ez-S6-Redux-Bonus-Content-copy/README.md" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/App.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1497582702000" expanded="true" signature="7:140" ph="..." />
+                <marker date="1497582702000" expanded="true" signature="170:539" ph="{...}" />
+                <marker date="1497582702000" expanded="true" signature="183:537" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Frame.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/Frame.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputBar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/InputBar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListBox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/ListBox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-290">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListItem.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/ListItem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1497582702000" expanded="true" signature="7:168" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registerServiceWorker.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/registerServiceWorker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-example/test/tests.js" />
+        <option value="$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-commented/test/tests.js" />
+        <option value="$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/test/tests.js" />
+        <option value="$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/helpers/bank.js" />
+        <option value="$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/package.json" />
+        <option value="$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/App.test.js" />
+        <option value="$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/ListItem.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="35" />
+    <option name="y" value="23" />
+    <option name="width" value="1398" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Redux-Bonus-Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Redux-Bonus-Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day-4-Advanced Redux-Front End Auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Redux-Bonus-Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day-3-TDD-React-Redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Redux-Bonus-Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day-3-TDD-React-Redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Redux-Bonus-Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day-3-TDD-React-Redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-TDD-To-Do-Basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdd-solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Redux-Bonus-Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day-3-TDD-React-Redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-TDD-To-Do-Basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdd-solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Redux-Bonus-Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day-3-TDD-React-Redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-TDD-To-Do-Basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdd-solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="childComponents" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Redux-Bonus-Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day-3-TDD-React-Redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-TDD-To-Do-Basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tdd-solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class-06-15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Redux-Bonus-Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day-3-TDD-React-Redux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-TDD-To-Do-Basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac61dbfe-c8fa-4921-92c1-3646f562ba06" name="Default" comment="" />
+      <created>1497576995577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497576995577</updated>
+      <workItem from="1497576998457" duration="7930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7930000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="35" y="23" width="1398" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1423462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30321783" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30321783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2801228" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/z-20-regionalized-content/Java/01-Activities/04-Classes-and-Objects/Examples/classes/User.js" />
+        <option value="$PROJECT_DIR$/z-23-other-languages/01-Activities/08-Classes-and-Objects-Java/Examples/classes/User.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-commented/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-example/test/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="56" lean-forward="false" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-example/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/01-First-Test/first-test-commented/test/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/test/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Day-3-LessonPlan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/02-Bank-Activity/bank-solution/helpers/bank.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="13" column="85" lean-forward="false" selection-start-line="13" selection-start-column="85" selection-end-line="13" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1497582702000" expanded="true" signature="7:168" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1497582702000" expanded="true" signature="7:140" ph="..." />
+            <marker date="1497582702000" expanded="true" signature="170:539" ph="{...}" />
+            <marker date="1497582702000" expanded="true" signature="183:537" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="40" column="40" lean-forward="true" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/ListItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/ListBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-290">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/Frame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/childComponents/InputBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Redux-Bonus-Content/Day-3-TDD-React-Redux/Activities/03-TDD-To-Do-Basic/tdd-solution/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

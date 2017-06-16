@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 3s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.full-width{
+  width:100%;
+}
+
+.flex-container-row{
+  display:flex;
+  flex-direction: row;
+}
+
+.flex-container-col{
+  display:flex;
+  flex-direction: column;
+}
+
+.flex-center-children{
+  align-content: center;
+  justify-content: center;
+}
+
+.theme-color-main{
+  background-color:#61DAFB;
+}
+
+.theme-color-alt{
+  background-color:#222;
+  color:white;
+}
+
+.listbox{
+  width:70%;
+  min-height:100%;
+}
+
+.frame{
+  min-height:calc(100vh - 250px);
+}
+
+.inputBar{
+  margin-top:auto;
+  justify-content: space-around;
+  padding:20px;
+  border-top: 2px solid white;
+}
+
+.inputBar>*{
+  margin:0px 15px;
+}
+
+.inputBar input{
+  flex-grow:5;
+  font-weight:700;
+}
+
+.inputBar button{
+  flex-grow:2;
+}
+
+.taskItem{
+  border-top: 2px solid white;
+  justify-content: space-between;
+}
+
+.taskItem h5{
+  padding:20px 10%;
+  margin:0;
+}
+
+button{
+  padding:15px;
+  width:120px;
+  font-weight: 700;
+}
+
+.taskItemComplete{
+  color:black;
+  background-color:rgb(200, 255, 210);
+}
+
+.taskItemIncomplete{
+  background-color:rgb(255, 140, 140);
+  color:white;
+}
+
+.taskItemComplete h5{
+  text-decoration: line-through;
+}
