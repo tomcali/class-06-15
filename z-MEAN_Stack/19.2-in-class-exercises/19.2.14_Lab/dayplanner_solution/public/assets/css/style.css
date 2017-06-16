@@ -1,0 +1,199 @@
+body {
+  height: 1200px;
+  background-color: white;
+
+  /* background-image: url("../images/background_light.png"); */
+  background-repeat: repeat-y;
+}
+
+.night-block:hover {
+  background-color: paleturquoise;
+  opacity: 0.95;
+}
+
+.day-block:hover {
+  background-color: blanchedalmond;
+  opacity: 0.95;
+}
+
+.panel {
+  width: 396px;
+  height: 76px;
+  padding: 0;
+  margin: 0;
+  box-shadow: -5px -5px 153px -9px rgba(0, 0, 0, 0.26);
+}
+
+.text-box {
+  display: inline-block;
+  width: 325px;
+  height: 76px;
+  margin: -3px;
+}
+
+.number-box {
+  display: inline-block;
+  width: 75px;
+  height: 76px;
+  margin: -3px;
+}
+
+.night {
+  font-size: 20px;
+  color: deepskyblue;
+  border-color: deepskyblue;
+  border-style: solid;
+  border-width: 0.15em;
+}
+
+.day {
+  font-size: 20px;
+  color: darkorange;
+  border-color: darkorange;
+  border-style: solid;
+  border-width: 0.15em;
+}
+
+textarea {
+  width: 321px;
+  height: 70px;
+  padding: 0;
+  margin: 0;
+  resize: none;
+}
+
+#header {
+  width: 126px;
+  height: 65px;
+  padding-top: 18px;
+  margin-left: 20px;
+  font-size: 22px;
+  color: darkgray;
+}
+
+#am-head {
+  width: 20px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  font-size: 20px;
+  color: darkorange;
+}
+
+#pm-head {
+  width: 20px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  font-size: 20px;
+  color: deepskyblue;
+}
+
+/* AM */
+
+#twelve-am {
+  background-image: url("../images/orgNums/org12.png");
+}
+
+#one-am {
+  background-image: url("../images/orgNums/org1.png");
+}
+
+#two-am {
+  background-image: url("../images/orgNums/org2.png");
+}
+
+#three-am {
+  background-image: url("../images/orgNums/org3.png");
+}
+
+#four-am {
+  background-image: url("../images/orgNums/org4.png");
+}
+
+#five-am {
+  background-image: url("../images/orgNums/org5.png");
+}
+
+#six-am {
+  background-image: url("../images/orgNums/org6.png");
+}
+
+#seven-am {
+  background-image: url("../images/orgNums/org7.png");
+}
+
+#eight-am {
+  background-image: url("../images/orgNums/org8.png");
+}
+
+#nine-am {
+  background-image: url("../images/orgNums/org9.png");
+}
+
+#ten-am {
+  background-image: url("../images/orgNums/org10.png");
+}
+
+#eleven-am {
+  background-image: url("../images/orgNums/org11.png");
+}
+
+/* PM */
+
+#twelve-pm {
+  background-image: url("../images/blueNums/blue12.png");
+}
+
+#one-pm {
+  background-image: url("../images/blueNums/blue1.png");
+}
+
+#two-pm {
+  background-image: url("../images/blueNums/blue2.png");
+}
+
+#three-pm {
+  background-image: url("../images/blueNums/blue3.png");
+}
+
+#four-pm {
+  background-image: url("../images/blueNums/blue4.png");
+}
+
+#five-pm {
+  background-image: url("../images/blueNums/blue5.png");
+}
+
+#six-pm {
+  background-image: url("../images/blueNums/blue6.png");
+}
+
+#seven-pm {
+  background-image: url("../images/blueNums/blue7.png");
+}
+
+#eight-pm {
+  background-image: url("../images/blueNums/blue8.png");
+}
+
+#nine-pm {
+  background-image: url("../images/blueNums/blue9.png");
+}
+
+#ten-pm {
+  background-image: url("../images/blueNums/blue10.png");
+}
+
+#eleven-pm {
+  background-image: url("../images/blueNums/blue11.png");
+}
+
+.shadow {
+  z-index: -5;
+  background-size: 100% 100%;
+  box-shadow: -1px 6px 31px 2px rgba(0, 0, 0, 0.26);
+}
+
+.gult {
+  padding: 0;
+  margin: auto;
+}

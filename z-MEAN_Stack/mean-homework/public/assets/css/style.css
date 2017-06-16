@@ -1,0 +1,265 @@
+/* general style */
+
+body {
+  color: black;
+  background-color: cadetblue;
+}
+
+.space {
+  height: 8px;
+  padding-top: 4px;
+}
+
+.fade {
+  width: 300px;
+  opacity: 0.2;
+}
+
+.line-lite {
+  color: darkkhaki;
+  opacity: 0.5;
+}
+
+.show {
+  margin: auto;
+}
+
+/* page CSS */
+
+.splash-img {
+  width: 600px;
+  height: 400px;
+  margin: auto;
+}
+
+#banner {
+  width: 460px;
+  height: 100px;
+  padding-top: 30px;
+  margin: auto;
+  font-size: 32px;
+  color: cornsilk;
+}
+
+#page {
+  width: 600px;
+  margin: auto;
+}
+
+.item-block {
+  padding: 4px;
+  margin: 8px;
+  border: 1px solid darkcyan;
+  opacity: 0.9;
+}
+
+.item-block:hover {
+  border: 1px navajowhite;
+  border-style: dotted;
+  opacity: 1;
+}
+
+.item-info {
+  padding: 16px;
+  margin-bottom: 10px;
+  color: teal;
+  text-decoration: strong;
+  background-color: sandybrown;
+}
+
+.item-name {
+  display: inline-block;
+  font-weight: bold;
+  color: darkcyan;
+}
+
+.item-stat {
+  display: inline-block;
+  font-size: 16px;
+  line-height: 30%;
+  color: lightgoldenrodyellow;
+}
+
+.item-display {
+  font-size: 18px;
+  color: gold;
+}
+
+.comment-title {
+  width: 200px;
+  padding-top: 4px;
+  margin: auto;
+  font-size: 16px;
+  color: navajowhite;
+  text-decoration: strong;
+}
+
+#comment-look {
+  width: 400px;
+  margin: auto;
+  color: beige;
+  opacity: 0.87;
+}
+
+.comment-msg {
+  display: inline-block;
+  color: cornsilk;
+}
+
+.commentor {
+  display: inline-block;
+  padding-left: 8px;
+  color: darkslategray;
+}
+
+#comment-input {
+  width: 150px;
+  margin: auto;
+}
+
+.center-button {
+  width: 140px;
+  height: 60px;
+  padding-top: 30px;
+  padding-bottom: 120px;
+  margin: auto;
+}
+
+#input-item-button {
+  width: 140px;
+  height: 60px;
+}
+
+.input-item-text {
+  width: 260px;
+  height: 35px;
+  color: black;
+}
+
+#sale-title {
+  width: 320px;
+  padding-bottom: 10px;
+  margin: auto;
+  font-size: 22px;
+  color: moccasin;
+}
+
+.sell-box {
+  color: khaki;
+}
+
+#user {
+  position: fixed;
+  top: 10px;
+  right: 40px;
+  width: 200px;
+  height: 170px;
+  padding: 10px;
+  margin: 12px;
+  color: palegoldenrod;
+  background-color: cadetblue;
+  border: 1px solid darkcyan;
+  opacity: 0.85;
+}
+
+#user:hover {
+  border: 1px solid moccasin;
+  opacity: 1;
+}
+
+.log-input {
+  padding-bottom: 5px;
+}
+
+input[type=password] {
+  width: calc(100% - 1px);
+  width: 160px;
+  height: 18px;
+  padding: 1px;
+  margin-left: 1px;
+  background-color: cadetblue;
+  border: 0;
+  box-shadow: -6px 9px 0 -7px darkcyan, 2px 9px 0 -7px darkcyan;
+  transition: box-shadow 0.3s;
+}
+
+input[type=password]:focus {
+  width: 160px;
+  padding: 1px;
+  background-color: cadetblue;
+  outline: none;
+  box-shadow: -6px 9px 0 -7px #ebebeb, 2px 9px 0 -7px #ebebeb;
+}
+
+input[type=text] {
+  width: calc(100% - 1px);
+  width: 160px;
+  height: 18px;
+  padding: 1px;
+  margin-left: 1px;
+  background-color: cadetblue;
+  border: 0;
+  box-shadow: -6px 9px 0 -7px darkcyan, 2px 9px 0 -7px darkcyan;
+  transition: box-shadow 0.3s;
+}
+
+input[type=text]:focus {
+  width: 160px;
+  padding: 1px;
+  background-color: cadetblue;
+  outline: none;
+  box-shadow: -6px 9px 0 -7px #ebebeb, 2px 9px 0 -7px #ebebeb;
+}
+
+#log-in-button {
+  width: 100px;
+  height: 50px;
+  padding-top: 12px;
+  margin: auto;
+  font-size: 26px;
+  color: darkcyan;
+  opacity: 0.95;
+}
+
+#current-user {
+  position: fixed;
+  top: 10px;
+  right: 40px;
+  width: 200px;
+  height: 270px;
+  padding: 10px;
+  margin: 12px;
+  font-size: 14px;
+  color: palegoldenrod;
+  background-color: cadetblue;
+  border: 1px solid darkcyan;
+  opacity: 1;
+}
+
+#current-user:hover {
+  border: 1px solid moccasin;
+  opacity: 1;
+}
+
+#current-display {
+  color: darkslategray;
+}
+
+#user-items {
+  padding-left: 12px;
+  margin: 2px;
+  font-style: italic;
+  color: lightyellow;
+}
+
+#user-name {
+  padding-left: 36px;
+  font-size: 16px;
+  font-style: bold;
+  color: azure;
+}
+
+#weclome {
+  font-size: 18px;
+  font-style: bold;
+}

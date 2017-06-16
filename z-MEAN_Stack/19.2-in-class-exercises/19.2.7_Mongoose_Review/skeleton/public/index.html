@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <style>
+    #wrapper {
+      width: 960px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    input,
+    textarea {
+      width: 60%;
+      display: block;
+      margin: 0 auto;
+    }
+
+    input {
+      height: 36px;
+      font-size: 26px;
+    }
+
+    textarea {
+      height: 400px;
+      font-size: 18px;
+    }
+
+    button {
+      width: 60%;
+      margin: 0 auto;
+      display: block;
+      height: 30px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="wrapper">
+    <h1>Scrapper</h1>
+    <h2><i>Totally not just another note app...</i></h2>
+    <form action="/submit" method="post">
+      <input type="text" name="title">
+      <textarea name="body"></textarea>
+      <button type="submit">Save</button>
+    </form>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>

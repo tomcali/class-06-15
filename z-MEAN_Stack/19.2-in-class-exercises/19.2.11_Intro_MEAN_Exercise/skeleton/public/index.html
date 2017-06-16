@@ -1,0 +1,46 @@
+<!doctype html>
+<html ng-app="recipeApp" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+  <script src="assets/javascript/controllers/app.js"></script>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+  <div id="wrapper">
+    <h1>Recipe Tracker</h1>
+    <div ng-controller="RecipeListController as recipeList">
+
+      <div class="eachrecipe" ng-repeat="recipe in recipeList.recipes">
+        <h2>{{recipe.title}}</h2>
+        <h3>{{recipe.notes}}</h3>
+        <ul>
+          <li ng-repeat="ingredient in recipe.ingredients">
+            {{ingredient.name}} : <span ng-class="ingredient.owned ? 'have' : 'nohave'">
+              {{ingredient.owned ? "Have Ingredient" : "Don't Have Ingredient"}}
+            </span>
+          </li>
+        </ul>
+      </div>
+
+
+      <form ng-submit="recipeList.addRecipe()">
+        <input id="recipetitle" type="text" ng-model="recipeList.recipeTitle" size="30" placeholder="Recipe Title">
+        <textarea type="text" ng-model="recipeList.recipeNote" size="30" placeholder="Recipe Notes"></textarea>
+        <div ng-repeat="ingredientBox in recipeList.ingredientBoxes">
+          <input class="ingredientinput" type="text" ng-model="ingredientBox.name" size="30">
+          <label class="checkbox">
+            <input type="checkbox" ng-model="ingredientBox.owned" checked>
+            <span>Have Ingredient</span>
+          </label>
+        </div>
+        <p ng-click="recipeList.addIngredientBox()">Add Ingredients + </p>
+        <input id="submitbutton" type="submit" value="Add Recipe">
+      </form>
+    </div>
+  </div>
+</body>
+
+</html>

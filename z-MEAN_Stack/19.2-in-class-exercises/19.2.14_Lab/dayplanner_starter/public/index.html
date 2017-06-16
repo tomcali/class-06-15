@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html ng-app="myApp" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Day Planner</title>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <!-- Latest compiled JavaScript -->
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  <!-- Angualar -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  <script src="assets/js/controller.js"></script>
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div ng-controller="ScheduleController as schedule">
+      <div id="header">Day Planner</div>
+
+      <div class="row">
+        <div class="col-xs-1 col-md-1"></div>
+        <div class="col-xs-5 col-md-5">
+          <div id="am-head">AM</div>
+          <!-- AM -->
+          <div ng-repeat="" class="">
+            <div class="panel day-block">
+              <div class="number-box day shadow" id=""></div>
+              <div class="text-box day">
+                <textarea class="day-block" id="">{{value}}</textarea>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-5 col-md-5">
+          <div id="pm-head">PM</div>
+          <!-- PM -->
+          <div ng-repeat="" class="">
+            <div class="panel night-block">
+              <div class="number-box night shadow" id=""></div>
+              <div class="text-box night">
+                <textarea class="night-block" id="">{{value}}</textarea>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-1 col-md-1"></div>
+      </div>
+
+      <hr>
+
+      <div class="col-xs-1 col-md-1"></div>
+      <div class="col-xs-5 col-md-5 gult text-center">
+        <div class="btn-group">
+          <button class="btn btn-secondary btn-lg dropdown-toggle btn-warning" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Load Plan</button>
+          <div class="dropdown-menu">
+            <div ng-repeat="">
+              <div ng-click="">
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-5 col-md-5 gult text-center">
+        <form ng-submit="" id="save-button">
+          <button type="submit" class="btn btn-lg btn-info">
+            Save Plan
+          </button>
+        </form>
+      </div>
+      </form>
+    </div>
+
+    <div class="col-xs-1 col-md-1"></div>
+
+  </div>
+  <!-- End of Controller -->
+  </div>
+</body>
+
+</html>

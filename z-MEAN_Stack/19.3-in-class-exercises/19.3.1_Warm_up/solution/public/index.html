@@ -1,0 +1,44 @@
+<!doctype html>
+<html ng-app="orderApp" lang="end">
+
+<head>
+  <meta charset="utf-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+  <script src="assets/javascript/controllers/app.js"></script>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+  <div id="wrapper">
+    <h1>Order Tracker</h1>
+    <div id="line"></div>
+    <div ng-controller="OrderListController as orderList">
+
+      <div class="eachorder" ng-repeat="order in orderList.orders">
+        <div class="left">
+          <h2>{{order.address}}</h2>
+          <h3>{{order.notes}}</h3>
+        </div>
+
+        <div class="right">
+          <ul>
+            <li ng-repeat="item in order.items">{{item.name}}</li>
+          </ul>
+        </div>
+      </div>
+
+
+      <form ng-submit="orderList.addOrder()">
+        <input id="orderaddress" type="text" ng-model="orderList.address" size="30" placeholder="Order Address">
+        <textarea type="text" ng-model="orderList.notes" size="30" placeholder="Order Notes"></textarea>
+        <div ng-repeat="itemBox in orderList.itemBoxes">
+          <input class="iteminput" type="text" ng-model="itemBox.name" size="30">
+        </div>
+        <p ng-click="orderList.addItemBox()">Add Items + </p>
+        <input id="submitbutton" type="submit" value="Add Order">
+      </form>
+    </div>
+  </div>
+</body>
+
+</html>

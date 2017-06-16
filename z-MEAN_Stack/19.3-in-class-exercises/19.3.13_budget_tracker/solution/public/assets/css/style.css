@@ -1,0 +1,54 @@
+body {
+  color: white;
+  text-align: center;
+  background-color: #00796b;
+}
+
+#wrapper {
+  width: 960px;
+  padding: 40px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #009688;
+}
+
+table {
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+td {
+  width: 100px;
+  padding: 35px;
+  font-size: 2em;
+}
+
+.solo-input {
+  width: 50%;
+  height: 28px;
+  font-size: 22px;
+}
+
+.solo-button {
+  width: 25%;
+  height: 30px;
+  margin: 15px 0;
+}
+
+#expensetitle,
+#expenseamount {
+  width: 33%;
+  height: 28px;
+}
+
+#submitbutton {
+  height: 28px;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 2em;
+}

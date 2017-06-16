@@ -1,0 +1,74 @@
+<!doctype html>
+<html ng-app="budgetApp" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <!-- Angular -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+  <script src="assets/javascript/controllers/app.js"></script>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+  <div id="wrapper">
+    <h1>Budget Tracker</h1>
+    <div ng-controller="BudgetTrackerController as budgetTracker">
+      <div id="onboard" ng-hide="budgetTracker.loggedIn">
+        <form ng-submit="budgetTracker.login()">
+          <div>
+            <input class="solo-input" placeholder="Enter a username" ng-model="budgetTracker.username" type="text" value="" />
+          </div>
+          <div id="login-button">
+            <button type="submit" class="solo-button">
+                <span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true"> Enter
+              </button>
+          </div>
+        </form>
+      </div>
+
+      <div ng-show="budgetTracker.loggedIn">
+        <h2>Hi, {{budgetTracker.username}}!</h2>
+        <h3>Your Annual Salary: {{budgetTracker.salary | currency}}</h3>
+        <h3>Monthly: {{budgetTracker.monthlySalary | currency}}</h3>
+        <form ng-submit="budgetTracker.updateSalary()">
+          <div>
+            <input class="solo-input" placeholder="Salary" ng-keyup="budgetTracker.calculate()" ng-model="budgetTracker.salary" type="number" value="" />
+          </div>
+          <div id="login-button">
+            <button type="submit" class="solo-button">
+              <span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true"> Save Salary to DB for your next visit
+            </button>
+          </div>
+        </form>
+
+        <div id="expenseShow">
+          <table>
+            <tr>
+              <th>Name</th>
+              <th>Amount</th>
+              <th>Delete</th>
+            </tr>
+            <tr ng-repeat="expense in budgetTracker.expenses">
+              <td>{{expense.name}}</td>
+              <td>{{expense.amount | currency}}</td>
+              <td ng-click="budgetTracker.deleteExpense(expense._id)"><button>X</button></td>
+            </tr>
+          </table>
+        </div>
+
+
+
+        <form ng-submit="budgetTracker.addExpense()">
+          <input id="expensetitle" type="text" ng-model="budgetTracker.expense.name" placeholder="Expense Name">
+          <input id="expenseamount" type="number" ng-model="budgetTracker.expense.amount" placeholder="Amount">
+          <button id="submitbutton" type="submit">Add Expense</button>
+        </form>
+
+        <h2>You have {{budgetTracker.moneyLeft | currency}} left each month!</h2>
+      </div>
+
+    </div>
+  </div>
+</body>
+
+</html>

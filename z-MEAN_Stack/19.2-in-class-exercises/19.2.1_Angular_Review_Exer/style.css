@@ -1,0 +1,23 @@
+body {
+  color: white;
+  text-align: center;
+  background-color: #455a64;
+}
+
+#wrapper {
+  width: 960px;
+  padding: 40px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #607d8b;
+}
+
+table {
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+td {
+  width: 100px;
+  padding: 15px;
+}

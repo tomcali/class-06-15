@@ -1,0 +1,17 @@
+{
+  "name": "first-test-example",
+  "version": "1.0.0",
+  "description": "basic example of a test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "michael desantis",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html ng-app="myApp" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Super Yard Sale!</title>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  <!-- Angualar -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+  <script src="assets/js/controllers/controller.js"></script>
+  <script src="assets/js/controllers/products.js"></script>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div id="banner">
+      <span class="glyphicon glyphicon-grain" aria-hidden="true"></span> Superhero Yard Sale <span class="glyphicon glyphicon-grain" aria-hidden="true"></span>
+    </div>
+    <br>
+    <!-- splash image -->
+    <div class="splash-img">
+      <img src="assets/images/splash.png">
+    </div>
+    <div id="page">
+      <!-- Controller of commenting on items for sale and login-->
+      <div ng-controller="ItemsController as item">
+        <hr class="line-lite">
+        <div class="space"></div>
+        <!-- Login Div-->
+        <div id="user" ng-show="item.keep.state">
+          <div id="log-in">
+            <form ng-submit="item.login()">
+              <div class="log-input">
+                <span class="glyphicon glyphicon-user" aria-hidden="true"></span> Username:
+                <input ng-model="item.loginInfo.userName" type="text" value="" />
+              </div>
+              <div class="log-input"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span> Password:
+                <input ng-model="item.loginInfo.userPassword" type="password" value="" />
+              </div>
+              <div id="log-in-button">
+                <button type="submit" class="btn btn-info">
+                  Enter
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+        <!-- Display logged in user-->
+        <div id="current-user" ng-show="item.current.state">
+          <div class="space"></div>
+          <div id="weclome">Welcome Back:</div>
+          <div class="space"></div>
+          <div id="user-name"><span class="glyphicon glyphicon-knight" aria-hidden="true"></span> {{ item.user.name }}</div>
+          <div class="space"></div>
+          <div><span class="glyphicon glyphicon-piggy-bank" aria-hidden="true"></span> Balance: {{ item.user.money | currency }} </div>
+          <div class="space"></div>
+          <div id="current-display"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span> Collected:</div>
+          <div class="space"></div>
+          <div id="user-items">
+            <div ng-repeat="collected in item.user.collectedItems">
+              {{ collected }}
+            </div>
+          </div>
+        </div>
+        <div class="space"></div>
+        <!-- Display items and comments -->
+        <div ng-repeat="thing in item.stuff.gear" class="item-block">
+          <div class="item-info">
+            <div class="space"></div>
+            <h4><span class="glyphicon glyphicon-gift" aria-hidden="true"></span> Item Name:
+                                    <p class="item-name">[ {{ thing.itemData.itemName }} ]</p>
+                                    </h4>
+            <h4 class="item-display"><h5 class="item-stat">Cost:</h5> {{ thing.itemData.itemPrice | currency }} </h4>
+            <h4 class="item-display"><h5 class="item-stat">Description:</h5> {{ thing.itemData.itemDescription }} </h4>
+            <h4 class="item-display"><h5 class="item-stat">Owned by:</h5> {{ thing.itemData._owner.name }} </h4>
+          </div>
+          <p class="comment-title">
+            <span class="glyphicon glyphicon-user" aria-hidden="true"></span> User Comments
+            <hr class="fade">
+            <div id="comment-look">
+              <div ng-repeat="msg in thing.commentData">
+                <p class="comment-msg">
+                </p> {{ msg.commentMsg }}
+                <p class="commentor"> <span class="glyphicon glyphicon-comment" aria-hidden="true"> </span> {{ msg._owner.name }}</p>
+          </p>
+          </div>
+          </div>
+          <hr class="fade">
+          <div class="space"></div>
+          <div id="comment-input">
+            <!-- post comment on item of each thing -->
+            <form name="commentForm" ng-submit="item.addComment(thing.itemData._id, thing.itemData._owner._id, thing.itemData.itemName, thing.myComment.body)">
+              <textarea ng-model="thing.myComment.body"></textarea>
+              <div class="space"></div>
+              <button type="submit" class="btn btn-primary">
+                                        <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> [ Post Comment ]
+                                    </button>
+            </form>
+            <div class="space"></div>
+            <form name="buyForm" ng-submit="item.buyItem(thing.itemData._id)">
+              <button type="submit" class="btn btn-success">
+                                        <span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span> [ Buy This Item ]
+                                    </button>
+            </form>
+          </div>
+          <div class="space"></div>
+          <div class="space"></div>
+        </div>
+        <!-- Creating your own item for sale -->
+        <div ng-show="item.store.state">
+          <div class="space"></div>
+          <div class="space"></div>
+          <hr class="line-lite">
+          <div id="sale-title"> *~ List your own item for sale ~*</div>
+          <hr class="line-lite">
+          <div id="sell-area">
+            <form class="form-horizontal" name="itemForm" ng-submit="item.listItem()">
+              <div class="form-group row sell-box">
+                <label class="col-xs-4 control-label">Name:</label>
+                <textarea class="col-xs-8 input-item-text" ng-model="item.myItem.name"></textarea>
+                <br>
+                <label class="col-xs-4 control-label">Description:</label>
+                <textarea class="col-xs-8 input-item-text" ng-model="item.myItem.description"></textarea>
+                <br>
+                <label class="col-xs-4 control-label">Price:</label>
+                <textarea class="col-xs-8 input-item-text" ng-model="item.myItem.price"></textarea>
+                <br>
+              </div>
+              <div class="center-button">
+                <button type="submit" class="btn btn-warning" id="input-item-button">
+                                        <span class="glyphicon glyphicon-tags" aria-hidden="true"></span> [ List Item ]
+                                    </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <!-- End of ItemsController -->
+    </div>
+  </div>
+</body>
+
+</html>
